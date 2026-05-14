@@ -1,17 +1,22 @@
-h1{
+/* 1. General styles for the whole page */
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: black;
+    line-height: 1.6; /* Makes text easier to read */
+    padding: 20px;
+}
+
+/* 2. Specific overrides for Headers */
+h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     color: darkorange;
 }
 
-h2{
+h2 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: brown;
-}
-
-body * {
-    font-family: 'Arial', sans-serif;
-    font-size: 18px;
-    color: black;
+    margin-top: 20px;
 }
