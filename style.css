@@ -16,13 +16,13 @@ body {
 .container {
     max-width: 900px;
     margin: 0 auto;
-    padding: 40px 20px;
+    padding: 0 20px 40px;
 }
 
 /* 3. Header section */
 header {
     text-align: center;
-    margin-bottom: 40px;
+    margin: 0 0 40px 0;
     padding: 30px;
     background: rgba(255, 255, 255, 0.9);
     border-radius: 10px;
